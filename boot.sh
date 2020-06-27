@@ -11,8 +11,8 @@
 # ------------------------------------------------------------------------------
 
 
-PATH_BIN_PYTHON="/usr/bin/python"
-PATH_BIN_PIP="$(which pip)"
+PATH_BIN_PYTHON=$(which python3)
+PATH_BIN_PIP="$(which pip3)"
 
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 PATH_APP="$CURRENT_DIR/app"
