@@ -11,7 +11,7 @@ from kivy.uix.label import Label
 from kivy.uix.boxlayout import BoxLayout
 from kivy.clock import Clock
 
-from display import Display
+from .display import Display
 
 
 class CoreService(object):
