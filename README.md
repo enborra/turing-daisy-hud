@@ -2,6 +2,9 @@
 
 Heads up display for Daisy, a greenhouse droid
 
+git clone https://github.com/enborra/turing-daisy-hud.git
+sudo ln -s turing-daisy-hud /etc/turing/services/turing-daisy-hud
+
 # Install Kivy
 https://kivy.org/doc/stable/installation/installation-rpi.html
 
