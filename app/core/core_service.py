@@ -104,7 +104,7 @@ class CoreService(object):
                 60
             )
 
-        except Exception, e:
+        except Exception as e:
             if self._is_debug:
                 print('Could not connect to local GrandCentral. Retry in one second.')
 
