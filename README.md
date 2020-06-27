@@ -3,6 +3,7 @@
 Heads up display for Daisy, a greenhouse droid
 
 # Install Kivy
+https://kivy.org/doc/stable/installation/installation-rpi.html
 
 sudo apt update
 sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev \
